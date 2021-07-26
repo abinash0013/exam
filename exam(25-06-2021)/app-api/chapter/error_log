@@ -1,0 +1,12 @@
+[11-Jun-2021 12:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home4/varnixhr/public_html/exam/app-api/objects/chapter.php:33
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/chapter/chapter-details.php(27): Chapter->chapterDetails()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/chapter.php on line 33
+[11-Jun-2021 12:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home4/varnixhr/public_html/exam/app-api/objects/chapter.php:33
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/chapter/chapter-details.php(27): Chapter->chapterDetails()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/chapter.php on line 33
+[02-Jul-2021 08:18:40 UTC] PHP Warning:  Use of undefined constant en - assumed 'en' (this will throw an Error in a future version of PHP) in /home4/varnixhr/public_html/exam/app-api/chapter/chapter-list.php on line 31
+[02-Jul-2021 08:18:40 UTC] PHP Warning:  Use of undefined constant en - assumed 'en' (this will throw an Error in a future version of PHP) in /home4/varnixhr/public_html/exam/app-api/chapter/chapter-list.php on line 31

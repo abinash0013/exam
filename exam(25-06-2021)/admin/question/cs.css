@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'AAText';
+  font-style: normal;
+  font-weight: 400;
+  src: url(font/ttf/AA0117B.ttf) format('truetype');
+   
+}
+@font-face {
+  font-family: 'Gurbanihindi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(font/ttf/gurbanihindi.ttf) format('truetype');
+   
+}
+@font-face {
+  font-family: 'Kruti_Dev_010';
+  font-style: normal;
+  font-weight: 400;
+  src: url(font/ttf/Kruti_Dev_010.ttf) format('truetype');
+   
+}
+
+/*@font-face {*/
+/*  font-family: 'AAText';*/
+/*  font-style: normal;*/
+/*  font-weight: 400;*/
+/*  src: url(font/ttf/AA0117N.ttf) format('truetype');*/
+  
+/*}*/
+/*@font-face {*/
+/*  font-family: 'AAText';*/
+/*  font-style: normal;*/
+/*  font-weight: 400;*/
+/*  src: url(font/ttf/AA0117X.ttf) format('truetype');*/
+  
+/*}*/
+/*@font-face {*/
+/*  font-family: 'AAText';*/
+/*  font-style: normal;*/
+/*  font-weight: 400;*/
+/*  src: url(font/ttf/AA01171.ttf) format('truetype');*/
+ 
+/*}*/
+/*@font-face {*/
+/*  font-family: 'AAText';*/
+/*  font-style: normal;*/
+/*  font-weight: 400;*/
+/*  src: url(font/ttf/AA01171.ttf) format('truetype');*/
+  
+/*}*/
+@font-face {
+  font-family: 'Symbol';
+  font-style: normal;
+  font-weight: 400;
+  src: url(font/symbol_0.ttf) format('truetype');
+  
+}
+
+
+@font-face {
+    font-family: 'itf_rupeeregular';
+    src: url('itf_rupee_regular-webfont.woff2') format('woff2'),
+         url('itf_rupee_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*@font-face {*/
+/*    font-family: 'AAText';*/
+/*    src: url('AAText-Bold.woff2') format('woff2'),*/
+/*        url('AAText-Bold.woff') format('woff');*/
+/*    font-weight: bold;*/
+/*    font-style: normal;*/
+/*    font-display: swap;*/
+/*}*/

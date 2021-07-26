@@ -1,0 +1,7 @@
+[14-Jun-2021 02:26:26 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home4/varnixhr/public_html/exam/test.php on line 112
+[09-Jul-2021 02:22:36 UTC] PHP Warning:  move_uploaded_file(uploads/7-sx0482g-sparx-original-imafkg6rhqq7hkjq.jpeg): failed to open stream: No such file or directory in /home4/varnixhr/public_html/exam/ckupload.php on line 75
+[09-Jul-2021 02:22:36 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCtYcH2' to 'uploads/7-sx0482g-sparx-original-imafkg6rhqq7hkjq.jpeg' in /home4/varnixhr/public_html/exam/ckupload.php on line 75
+[09-Jul-2021 02:24:17 UTC] PHP Warning:  move_uploaded_file(uploads/770aebd90f4dbf72.jpg): failed to open stream: No such file or directory in /home4/varnixhr/public_html/exam/ckupload.php on line 75
+[09-Jul-2021 02:24:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjUuYaG' to 'uploads/770aebd90f4dbf72.jpg' in /home4/varnixhr/public_html/exam/ckupload.php on line 75
+[09-Jul-2021 02:24:58 UTC] PHP Warning:  move_uploaded_file(/770aebd90f4dbf72.jpg): failed to open stream: Permission denied in /home4/varnixhr/public_html/exam/ckupload.php on line 75
+[09-Jul-2021 02:24:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpk3go2G' to '/770aebd90f4dbf72.jpg' in /home4/varnixhr/public_html/exam/ckupload.php on line 75

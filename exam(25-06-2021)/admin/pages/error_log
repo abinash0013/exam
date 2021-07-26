@@ -1,0 +1,2 @@
+[22-Jun-2021 05:54:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/pages/index.php on line 57
+[22-Jun-2021 05:55:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/pages/index.php on line 57

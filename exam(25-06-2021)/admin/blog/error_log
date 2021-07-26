@@ -1,0 +1,5 @@
+[16-Jun-2021 06:12:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/banner/edit.php on line 10
+[16-Jun-2021 06:12:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/banner/edit.php on line 10
+[16-Jun-2021 06:13:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/banner/edit.php on line 10
+[12-Jul-2021 03:55:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/blog/index.php on line 9
+[12-Jul-2021 04:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/blog/index.php on line 9

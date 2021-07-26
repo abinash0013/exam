@@ -1,0 +1,307 @@
+[09-Jun-2021 05:18:15 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:18:15 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:19:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:19:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:19:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:19:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:20:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[09-Jun-2021 05:20:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/varnixhr/public_html/exam/app-api/course/course-list.php on line 34
+[15-Jun-2021 01:53:52 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/varnixhr/public_html/exam/app-api/objects/course.php on line 96
+[15-Jun-2021 01:54:05 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/varnixhr/public_html/exam/app-api/objects/course.php on line 96
+[15-Jun-2021 01:54:22 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home4/varnixhr/public_html/exam/app-api/objects/course.php on line 96
+[15-Jun-2021 02:48:36 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home4/varnixhr/public_html/exam/app-api/course/course-purchase.php on line 17
+[15-Jun-2021 02:49:21 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home4/varnixhr/public_html/exam/app-api/course/course-purchase.php on line 17
+[15-Jun-2021 02:50:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home4/varnixhr/public_html/exam/app-api/course/course-purchase.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/course-purchase.php on line 39
+[15-Jun-2021 02:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home4/varnixhr/public_html/exam/app-api/course/course-purchase.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/course-purchase.php on line 39
+[17-Jun-2021 10:41:40 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home4/varnixhr/public_html/exam/app-api/objects/course.php on line 46
+[22-Jun-2021 08:15:50 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[22-Jun-2021 08:15:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[22-Jun-2021 08:15:57 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[22-Jun-2021 08:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[22-Jun-2021 08:16:26 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[22-Jun-2021 08:16:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:28:56 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:28:56 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:06 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:06 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:24 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:25 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:25 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:31 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:31 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:32 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:33 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:33 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:29:33 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:12 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:12 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:12 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:16 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:19 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:20 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:20 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:20 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:21 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:42 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:42 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:42 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:42 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:42 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:43 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:45 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:45 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:30:46 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:00 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:00 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:01 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:01 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:01 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:04 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:05 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:06 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:06 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:07 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:30 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:32 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:32 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:32 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:31:32 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:55:33 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:55:34 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:55:34 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:56:11 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:56:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:58:52 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 06:59:07 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 06:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 07:00:10 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 07:00:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29
+[23-Jun-2021 07:01:54 UTC] PHP Warning:  Creating default object from empty value in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 28
+[23-Jun-2021 07:01:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::purchage_list() in /home4/varnixhr/public_html/exam/app-api/course/search-course.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/course/search-course.php on line 29

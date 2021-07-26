@@ -1,0 +1,5 @@
+[16-Jun-2021 10:31:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/exam/index.php on line 15
+[16-Jun-2021 10:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/exam/index.php on line 15
+[16-Jun-2021 10:32:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/exam/index.php on line 15
+[16-Jun-2021 10:32:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/varnixhr/public_html/exam/admin/exam/index.php on line 15
+[13-Jul-2021 03:38:12 UTC] PHP Parse error:  syntax error, unexpected 'examId' (T_STRING), expecting ']' in /home4/varnixhr/public_html/exam/admin/exam/index.php on line 130

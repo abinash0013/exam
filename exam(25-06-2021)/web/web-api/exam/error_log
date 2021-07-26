@@ -1,0 +1,145 @@
+[16-Jun-2021 02:13:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 122
+[16-Jun-2021 02:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Exam::get_question() in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 25
+[18-Jun-2021 02:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php on line 27
+[18-Jun-2021 02:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:102
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(41): Exam->get_question_check()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 102
+[18-Jun-2021 02:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:102
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(41): Exam->get_question_check()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 102
+[18-Jun-2021 02:22:54 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:117
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(44): Exam->tbl_attemt_exam_update_fun()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 117
+[18-Jun-2021 02:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php:43
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php on line 43
+[18-Jun-2021 02:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php:43
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php on line 43
+[18-Jun-2021 03:00:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php:43
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php on line 43
+[18-Jun-2021 03:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php:43
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php on line 43
+[18-Jun-2021 04:27:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 134
+[18-Jun-2021 08:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:112
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/attemt-exam.php(28): Exam->tbl_attemt_exam_update_fun()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 112
+[18-Jun-2021 08:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:112
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/attemt-exam.php(28): Exam->tbl_attemt_exam_update_fun()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 112
+[18-Jun-2021 08:01:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:01:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:21
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-list.php(28): Exam->exam_list_mock()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 21
+[18-Jun-2021 08:02:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:112
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/attemt-exam.php(28): Exam->tbl_attemt_exam_update_fun()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 112
+[18-Jun-2021 08:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:02:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:112
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/attemt-exam.php(28): Exam->tbl_attemt_exam_update_fun()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 112
+[18-Jun-2021 08:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:03:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[18-Jun-2021 08:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/varnixhr/public_html/exam/app-api/objects/exam.php:57
+Stack trace:
+#0 /home4/varnixhr/public_html/exam/app-api/exam/join-exam.php(26): Exam->get_question()
+#1 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/objects/exam.php on line 57
+[25-Jun-2021 01:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 27
+[25-Jun-2021 01:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php:42
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 42
+[25-Jun-2021 01:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php:42
+Stack trace:
+#0 {main}
+  thrown in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 42
+[30-Jun-2021 01:48:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/varnixhr/public_html/exam/app-api/exam/exam-details.php on line 84
+[04-Jul-2021 06:21:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/varnixhr/public_html/exam/web/web-api/exam/join-exam.php on line 80
+[04-Jul-2021 06:21:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/varnixhr/public_html/exam/web/web-api/exam/join-exam.php on line 80
+[04-Jul-2021 08:12:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/varnixhr/public_html/exam/web/web-api/exam/attemt-exam.php on line 89
+[04-Jul-2021 08:12:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/varnixhr/public_html/exam/web/web-api/exam/attemt-exam.php on line 89
+[04-Jul-2021 08:12:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/varnixhr/public_html/exam/web/web-api/exam/attemt-exam.php on line 89
+[04-Jul-2021 08:13:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/varnixhr/public_html/exam/web/web-api/exam/attemt-exam.php on line 89

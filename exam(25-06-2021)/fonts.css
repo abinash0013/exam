@@ -1,0 +1,39 @@
+@font-face {  
+    font-family: "AAText";   
+    src: url("font/AA0117B.PFB") format("PFB"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+     
+    src:  url("font/AA0117B.PFM") format("PFM"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+     
+    src:  url("font/AA01171.PFB") format("PFB"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+     
+    src:  url("font/AA01171.PFM") format("PFM"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+     
+    src:  url("font/AA0117N.PFB") format("PFB"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+    
+    src:   url("font/AA0117N.PFM") format("PFM"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+      
+    src:   url("font/AA0117X.PFB") format("PFB"); /*non-IE*/   
+}
+@font-face {  
+    font-family: "AAText";  
+   
+    src:  url("font/AA0117X.PFM") format("PFM"); /*non-IE*/   
+}
